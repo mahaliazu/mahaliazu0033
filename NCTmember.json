@@ -1,0 +1,94 @@
+{
+  "result": [
+  {
+    "name": "Taeyong",
+    "birth_date": "1995-07-01",
+    "zodiac": "Cancer",
+    "Position": "Leader, Rapper",
+    "International": "South Korea",
+    "Team": "NCT U, NCT 127",
+    "Poster": "https://berita.99.co/wp-content/uploads/2021/11/taeyong-nct-wowokerencom.jpg"
+  },
+  {
+    "name": "Taeil",
+    "birth_date": "1994-06-14",
+    "zodiac": "Gemini",
+    "Position": "Vocal",
+    "International": "South Korea",
+    "Team": "NCT U, NCT 127",
+    "Poster": "https://berita.99.co/wp-content/uploads/2021/11/teail-detikcom.png"
+  },
+  {
+    "name": "Johnny",
+    "birth_date": "1995-02-09",
+    "zodiac": "Aquarius",
+    "Position": "Rapper, Dance, Vocal",
+    "International": "Chicago",
+    "Team": "NCT U, NCT 127",
+    "Poster": "https://berita.99.co/wp-content/uploads/2021/11/johnny-nct-detikcom.jpeg"
+  },
+  {
+    "name": "Yuta",
+    "birth_date": "1995-10-26",
+    "zodiac": "Scorpio",
+    "Position": "Vocal, Rapper, Dancer",
+    "International": "Japan",
+    "Team": "NCT U, NCT 127",
+    "Poster": "https://berita.99.co/wp-content/uploads/2021/11/yuta-nct-kapanlagicom.jpg"
+  },
+  {
+    "name": "Kun",
+    "birth_date": "1996-01-01",
+    "zodiac": "Capricorn",
+    "Position": "Vocal",
+    "International": "Tiongkok",
+    "Team": "NCT U, WayV",
+    "Poster": "https://berita.99.co/wp-content/uploads/2021/11/kun-nct-pikiran-rakyatcom.jpg"
+  },
+  {
+    "name": "Doyoung",
+    "birth_date": "1996-02-01",
+    "zodiac": "Aquarius",
+    "Position": "Vocal",
+    "International": "South Korea",
+    "Team": "NCT U, NCT 127",
+    "Poster": "https://images.soco.id/194-doyoung-nct-brand-ambassador-dolce-gabbana-terbaru.jpg.jpeg"
+  },
+  {
+    "name": "Ten",
+    "birth_date": "1996-02-27",
+    "zodiac": "Pisces",
+    "Position": "Vocal, Dancer, Rapper",
+    "International": "Thailand",
+    "Team": "NCT U, WayV",
+    "Poster": "https://static.wikia.nocookie.net/kboy-group/images/4/42/TEN_NCT_U_icon.png/revision/latest?cb=20230823150537"
+  },
+  {
+    "name": "Jaehyun",
+    "birth_date": "1997-02-14",
+    "zodiac": "Aquarius",
+    "Position": "Vocal, Dancer, Rapper, Visual",
+    "International": "South Korea",
+    "Team": "NCT U, NCT 127",
+    "Poster": "https://berita.99.co/wp-content/uploads/2021/11/jaehyun-nct-gridid.jpeg"
+  },
+  {
+    "name": "Renjun",
+    "birth_date": "2000-03-23",
+    "zodiac": "Aquarius",
+    "Position": "Vocal",
+    "International": "Tiongkok",
+    "Team": "NCT U, NCT Dream",
+    "Poster": "https://berita.99.co/wp-content/uploads/2021/11/renjun-nct-idntimescom.png"
+  },
+  {
+    "name": "Jisung",
+    "birth_date": "2002-02-05",
+    "zodiac": "Aquarius",
+    "Position": "Dancer, Rapper, Vocal",
+    "International": "South Korea",
+    "Team": "NCT U, NCT Dream",
+    "Poster": "https://berita.99.co/wp-content/uploads/2021/11/jisung-pikiran-rakyatcom.png"
+  }
+ ]
+}
